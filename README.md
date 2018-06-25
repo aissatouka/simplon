@@ -1,8 +1,8 @@
 
-# samanemvc
-# Ngor SECK
+# afomvc
+# AISSATOU KA
 # PHP 
 # MVC version 1.1
-# SamaneMVC is a PHP framework
-# ngorsecka@gmail.com
-# samanemvc@gmail.com
+# Afomvc is a PHP framework
+# kaissatu@gmail.com
+
